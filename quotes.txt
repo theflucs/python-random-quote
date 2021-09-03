@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Se funziona quanto basta non toccare che si guasta
+Every journey starts with one step
